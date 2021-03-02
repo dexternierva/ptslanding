@@ -1,0 +1,117 @@
+{
+    "Header": {
+
+        "title": "PTS Schools",
+        "paragraph": "We are currently working on creating our new website. We will be launching very soon. Stay tuned!"
+
+    },
+    "About": {
+        "paragraph": "Sugar plum carrot cake donut. Dessert halvah lemon drops marzipan cotton candy bear claw candy canes sweet. Ice cream danish ice cream lemon drops. Cake sweet roll donut topping caramels fruitcake tootsie roll sugar plum. Pudding icing gingerbread ice cream tart sugar plum icing. I love jelly beans ice cream tart sugar plum topping sweet sugar plum.",
+        "Why": [
+            "Quality Training",
+            "Professional",
+            "Experienced Instructors"
+        ],
+        "Why2": [
+            "Accredited",
+            "Superior Faculty",
+            "Results-Oriented"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-graduation-cap",
+            "name": "For Students",
+            "text": "Learn with us! We are confident that we can achieve our dreams together."
+        },
+        {
+            "icon": "fa fa-building-o",
+            "name": "For Companies",
+            "text": "Partner with us! We are confident that we can grow together."
+        },
+        {
+            "icon": "fa fa-pencil-square-o",
+            "name": "For Teachers",
+            "text": "Work with us! And be a part of a growing team."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "CYA Centrum Unit L5-U12, Military Cut-off Road, Baguio City",
+        "phone": "0949 472 0958",
+        "email": "info@pts-schools.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Our Courses",
+            "text": "We make it easy for you. Our courses are carefully considered and planned."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Our Facilities",
+            "text": "We believe in the importance of facilities in improving student outcomes."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Our Instructors",
+            "text": "we rigorously train our instructors to ensure they meet high standards."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Our Locations",
+            "text": "We are a global training provider. Our 20+ instructors train people from all over the world."
+        }
+    ]
+}
