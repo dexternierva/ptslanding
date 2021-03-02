@@ -18,8 +18,14 @@ code {
     padding: 0 !important;
 }
 
-.header-text {
-  padding: 1rem;
-  background: rgba(92,169, 251, .6);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+.intro .overlay {
+  background: rgba(0, 0, 0, .4);
+}
+
+.intro .header-text {
+  font-weight: 400;
+}
+
+.col-md-8.col-md-offset-2.intro-text {
+  padding-top: 240px;
 }
